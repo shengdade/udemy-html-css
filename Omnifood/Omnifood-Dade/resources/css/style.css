@@ -269,6 +269,7 @@ header {
   width: 100%;
   background-color: #fff;
   box-shadow: 0 2px 2px #efefef;
+  z-index: 9999;
 }
 
 .sticky .main-nav {
