@@ -268,6 +268,7 @@ header {
   left: 0;
   width: 100%;
   background-color: #fff;
+  -webkit-box-shadow: 0 2px 2px #efefef;
   box-shadow: 0 2px 2px #efefef;
   z-index: 9999;
 }
@@ -639,10 +640,12 @@ footer p {
 .js--wp-2,
 .js--wp-3 {
   opacity: 0;
+  -webkit-animation-duration: 1s;
   animation-duration: 1s;
 }
 
 .js--wp-4 {
+  -webkit-animation-duration: 1s;
   animation-duration: 1s;
 }
 
